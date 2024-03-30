@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275688518288",
+    "project_id": "sagamok-members",
+    "storage_bucket": "sagamok-members.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275688518288:android:93bbf4e6bffb5ace28de15",
+        "android_client_info": {
+          "package_name": "com.example.sagamok_members"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEyOo2piIgionEhXtvweFXJjDGMGOiAio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
